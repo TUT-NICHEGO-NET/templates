@@ -18,3 +18,5 @@ https://github.com/DmitryVolovikov/Goal_Dima_2025 Моя репа с 40+ ноу�
 
 
 https://www.kaggle.com/code/dmitryvolovikov/just-for-tabular-data для табличных данных 
+
+https://www.kaggle.com/code/lambdaderta/ragc6e01f8b0e
